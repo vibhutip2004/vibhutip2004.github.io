@@ -1,0 +1,87 @@
+{
+    "profile": {
+      "name": "Vibhuti Pathak",
+      "title": "Python & ML Developer",
+      "bio": "I'm a Python developer passionate about Machine Learning, Reinforcement Learning, and building intelligent systems. I love turning data into meaningful solutions.",
+      "about": "I'm Vibhuti Pathak, a developer who loves building intelligent systems using Python. My work spans across Machine Learning, Reinforcement Learning, and Computer Vision. I enjoy solving real-world problems with data-driven approaches and clean, efficient code. Currently focused on exploring deep learning architectures and their practical applications in recommendation systems and attention-based models.",
+      "github": "https://github.com/vibhutip2004",
+      "linkedin": "",
+      "twitter": "",
+      "email": ""
+    },
+    "stats": [
+      {
+        "value": "3",
+        "label": "Repositories"
+      },
+      {
+        "value": "Python",
+        "label": "Primary Language"
+      },
+      {
+        "value": "ML/RL",
+        "label": "Focus Area"
+      }
+    ],
+    "projects": [
+      {
+        "name": "music_recorganisation",
+        "icon": "🎵",
+        "description": "A music recommendation system that suggests tracks based on user preferences using machine learning algorithms and audio feature analysis.",
+        "link": "https://github.com/vibhutip2004/music_recorganisation",
+        "tags": [
+          "Python",
+          "ML",
+          "Recommendation"
+        ]
+      },
+      {
+        "name": "rl-",
+        "icon": "🤖",
+        "description": "Reinforcement Learning experiments and implementations exploring agent training, policy optimization, and reward-based learning systems.",
+        "link": "https://github.com/vibhutip2004/rl-",
+        "tags": [
+          "Python",
+          "Reinforcement Learning",
+          "AI"
+        ]
+      },
+      {
+        "name": "Attention-Detector1",
+        "icon": "👁️",
+        "description": "A computer vision project for detecting attention levels using facial analysis and attention mechanism techniques.",
+        "link": "https://github.com/vibhutip2004/Attention-Detector1",
+        "tags": [
+          "Python",
+          "Computer Vision",
+          "Deep Learning"
+        ]
+      }
+    ],
+    "certificates": [
+      {
+        "title": "Machine Learning Specialization",
+        "issuer": "Coursera / Stanford",
+        "date": "2024",
+        "link": "#",
+        "icon": "🏆"
+      }
+    ],
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Deep Learning",
+      "Computer Vision",
+      "NumPy",
+      "Pandas",
+      "Scikit-learn",
+      "TensorFlow",
+      "PyTorch",
+      "OpenCV",
+      "Git",
+      "GitHub",
+      "Jupyter",
+      "Data Analysis"
+    ]
+  }
