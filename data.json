@@ -24,6 +24,18 @@
       }
     ],
     "projects": [
+              {
+        "name": "DocuQuery AI",
+        "icon": "📄",
+        "description": "A RAG-based Document Q&A chatbot that answers questions on uploaded PDF/TXT files using LangChain, ChromaDB vector search, and local embeddings — with source citations and conversational memory.",
+        "link": "https://github.com/vibhutip2004/docuquery-rag-chatbot",
+        "tags": [
+          "Python",
+          "LangChain",
+          "RAG",
+          "Generative AI"
+        ]
+      },
       {
         "name": "music_recorganisation",
         "icon": "🎵",
